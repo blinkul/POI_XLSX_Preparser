@@ -1,3 +1,0 @@
-MPS Usage Summary = 90520
-MPS Recurring Summary = 95501
-MPS Meter Read = 90520
